@@ -11,7 +11,7 @@ Financial Analysis | Statistical Modeling (including Machine Learning, Deep Lear
 ### Intermediate
 [![My Skills](https://skillicons.dev/icons?i=postgres,r,pytorch,tensorflow&perline=5)](https://skillicons.dev)
 ### Beginner
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,asure,aws,flask,html,css,powershell&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,azure,aws,flask,html,css,powershell&perline=5)](https://skillicons.dev)
 <!--
 **katzfintech/katzfintech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
