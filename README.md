@@ -1,5 +1,4 @@
 [![typograssy](https://typograssy.deno.dev/api?text=Welcome%20to%20My%20Profile%20!&comment=)](https://github.com/kawarimidoll/typograssy)
-
 ## ✅ About this page
 This GitHub page is for my personal reference.
 
