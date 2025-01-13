@@ -2,10 +2,10 @@
 ## ✅ About this page
 This GitHub page is for my personal reference.
 
-## My interests
-Financial Analysis | Statistical Modeling (including Machine Learning, Deep Learning, and GenAI)
+## 🔭 Main Focus
+Financial Analysis | Statistical Modeling (including Machine Learning, Deep Learning, GenAI, etc.)
 
-## My skills
+## 🧑‍💻 My skills
 ### Advanced
 [![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow&perline=5)](https://skillicons.dev)
 ### Intermediate
