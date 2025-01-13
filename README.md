@@ -3,7 +3,7 @@
 This GitHub page is for my personal reference.
 
 ## 🔭 Main Focus
-Financial Analysis | Statistical Modeling (including Machine Learning, Deep Learning, GenAI, etc.)
+Financial Analysis | Statistical Modeling (including Machine Learning, Deep Learning, Natural Language Processing, etc.)
 
 ## 🧑‍💻 My skills
 ### Advanced
