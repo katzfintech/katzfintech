@@ -7,9 +7,9 @@ Financial Analysis | Statistical Modeling (including Machine Learning, Deep Lear
 
 ## My skills
 ### Advanced
-[![My Skills](https://skillicons.dev/icons?i=py,sklearn&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow&perline=5)](https://skillicons.dev)
 ### Intermediate
-[![My Skills](https://skillicons.dev/icons?i=postgres,r,pytorch,tensorflow&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,r,pytorch&perline=5)](https://skillicons.dev)
 ### Beginner
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,azure,aws,flask,html,css,powershell&perline=5)](https://skillicons.dev)
 <!--
