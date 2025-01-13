@@ -1,4 +1,4 @@
-[![typograssy](https://typograssy.deno.dev/api?text=Hello%20world!)]
+[![typograssy](https://typograssy.deno.dev/api?text=Hello%20world!&comment=)]
 
 ## ✅ About this page
 This GitHub page is for my personal reference.
