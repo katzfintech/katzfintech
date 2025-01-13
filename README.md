@@ -1,4 +1,3 @@
-# Welcome to my profile 🙏
 ## ✅ About this page
 This GitHub page is for my personal reference.
 
