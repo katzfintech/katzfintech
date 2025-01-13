@@ -2,8 +2,16 @@
 ## ✅ About this page
 This GitHub page is for my personal reference.
 
+## My interests
+Financial Analysis | Statistical Modeling (including Machine Learning, Deep Learning, and GenAI)
+
 ## My skills
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+### Advanced
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn&perline=5)](https://skillicons.dev)
+### Intermediate
+[![My Skills](https://skillicons.dev/icons?i=postgres,r,pytorch,tensorflow&perline=5)](https://skillicons.dev)
+### Beginner
+[![My Skills](https://skillicons.dev/icons?i=aws,flask,github,html,java,powershell&perline=5)](https://skillicons.dev)
 <!--
 **katzfintech/katzfintech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
